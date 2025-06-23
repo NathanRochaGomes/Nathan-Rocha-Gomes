@@ -1,49 +1,46 @@
-<h1 align="center">Hey there, I'm Nathan 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=120&section=header"/>
 
-<p align="center">
-  I'm a passionate <strong>Computer Engineering student at SATC</strong>, focused on building clean, efficient, and scalable software.<br/>
-  Always learning, creating, and looking for new challenges in the tech world.
-</p>
+<div align="center">
+  
+  <h1>Hey there, I'm Nathan 👋</h1>
+  <p>
+    I'm a passionate <strong>Computer Engineering student at SATC</strong>, focused on building clean, efficient, and scalable software.<br/>
+    Always learning, creating, and looking for new challenges in the tech world.
+  </p>
+  
+</div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=60&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=60&section=header"/>
 
-### 🚀 Languages & Tools
+<div align="center">  
+  <img width="57%" src="https://github-readme-stats.vercel.app/api?username=NathanRochaGomes&show_icons=true&theme=blueberry&count_private=true" alt="Nathan Rocha GitHub Stats" /> 
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanRochaGomes&theme=blueberry&layout=donut" />
+</div>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NathanRochaGomes&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanRochaGomes&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<h3 align="center">Tecnologias que estudo</h3>
+<div style="display: inline_block" align="center" ><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,tailwind,git,vscode" />
   </a>
-  <a href="https://www.linkedin.com/in/seu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+</div>
 
----
+<br>
 
-<p align="center">
-  💙 Thanks for visiting my GitHub profile!
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NathanRochaGomes&theme=blueberry"/>
+  <img width="40%" src="https://streak-stats.demolab.com?user=NathanRochaGomes&theme=blueberry&border_radius=6&locale=pt_BR&mode=daily" alt="GitHub Streak" />
+</div>
+
+<hr>
+
+<br>
+<br>
+
+<div align="center" style="padding: 0.7rem;">
+  <a href="https://www.instagram.com/seu-instagram" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /> </a>
+  <a href="mailto:seuemail@example.com"> <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /> </a>
+  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /> </a>   
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=120&section=footer"/>
