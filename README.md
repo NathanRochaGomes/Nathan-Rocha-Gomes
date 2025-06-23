@@ -38,9 +38,9 @@
 <br>
 
 <div align="center" style="padding: 0.7rem;">
-  <a href="https://www.instagram.com/seu-instagram" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /> </a>
-  <a href="mailto:seuemail@example.com"> <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /> </a>
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /> </a>   
+  <a href="https://www.instagram.com/nathan_rcgm" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /> </a>
+  <a href="mailto:nathan07801@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /> </a>
+  <a href="https://www.linkedin.com/in/Nathan-Rocha-Gomes" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /> </a>   
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=120&section=footer"/>
