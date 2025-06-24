@@ -32,7 +32,7 @@
 
 <div align="center">
   <img width="49%" src="https://streak-stats.demolab.com?user=NathanRochaGomes&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=NathanRochaGomes&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Wakatime Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NathanRochaGomes&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" alt="Nathan's GitHub Stats" />
 </div>
 
 <div align="center">
