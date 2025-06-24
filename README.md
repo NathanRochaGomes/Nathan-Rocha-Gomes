@@ -36,24 +36,18 @@
 </div>
 
 <div align="center">
-  <h2>🛠️ Technology Stack</h2>
+  <h2>🛠️ Technologies I'm Learning</h2>
 </div>
 
 <div align="center">
-  <h3>Programming Languages</h3>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,java,c" alt="Programming Languages"/>
+  <h3>What I'm Working With</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,react" alt="Current Technologies"/>
   
-  <h3>Frontend Development</h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass" alt="Frontend Technologies"/>
+  <h3>Tools I Use</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
   
-  <h3>Backend Development</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" alt="Backend Technologies"/>
-  
-  <h3>Database & Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,aws" alt="Database & Cloud"/>
-  
-  <h3>Tools & Others</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,linux" alt="Tools"/>
+  <h3>Currently Studying</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,java,c" alt="Learning"/>
 </div>
 
 <div align="center">
@@ -70,7 +64,7 @@
   <h2>📫 Let's Connect!</h2>
   <p>I'm always open to interesting conversations and collaboration opportunities!</p>
   
-  <a href="https://www.linkedin.com/in/Nathan-Rocha-Gomes" target="_blank">
+  <a href="https://www.linkedin.com/in/nathan-r-6b43512b7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:nathan07801@gmail.com">
