@@ -65,13 +65,13 @@
   <p>I'm always open to interesting conversations and collaboration opportunities!</p>
   
   <a href="https://www.linkedin.com/in/nathan-r-6b43512b7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-2B77E6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A365D" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50"/>
   </a>
   <a href="mailto:nathan07801@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-4299E1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A365D" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="50"/>
   </a>
   <a href="https://www.instagram.com/nathan_rcgm" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-2B77E6?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1A365D" alt="Instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="50"/>
   </a>
 </div>
 
