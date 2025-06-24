@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1e40af,3b82f6,60a5fa&height=150&section=header&text=Nathan%20Rocha%20Gomes&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a365d,2b77e6,4299e1&height=150&section=header&text=Nathan%20Rocha%20Gomes&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1E40AF&center=true&vCenter=true&random=false&width=600&lines=Computer+Engineering+Student;Learning+Programming;Exploring+New+Technologies;Building+My+Skills" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2B77E6&center=true&vCenter=true&random=false&width=600&lines=Computer+Engineering+Student;Learning+Programming;Exploring+New+Technologies;Building+My+Skills" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -22,17 +22,17 @@
 </div>
 
 <div align="center">  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NathanRochaGomes&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" alt="Nathan's GitHub Stats" /> 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanRochaGomes&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NathanRochaGomes&show_icons=true&theme=algolia&count_private=true&hide_border=true&bg_color=0A1628" alt="Nathan's GitHub Stats" /> 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanRochaGomes&theme=algolia&layout=compact&hide_border=true&bg_color=0A1628" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NathanRochaGomes&theme=tokyonight&hide_border=true"/>
+  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NathanRochaGomes&theme=algolia&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=NathanRochaGomes&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NathanRochaGomes&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" alt="Nathan's GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=NathanRochaGomes&theme=algolia&hide_border=true&background=0A1628" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NathanRochaGomes&show_icons=true&theme=algolia&count_private=true&hide_border=true&bg_color=0A1628" alt="Nathan's GitHub Stats" />
 </div>
 
 <div align="center">
@@ -52,12 +52,12 @@
 
 <div align="center">
   <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=NathanRochaGomes&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=NathanRochaGomes&theme=algolia&no-frame=true&column=7" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">
   <h2>🐍 Contribution Graph</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NathanRochaGomes&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NathanRochaGomes&theme=github-compact&hide_border=true&bg_color=0A1628&color=2B77E6&line=4299E1&point=FFFFFF" alt="Activity Graph"/>
 </div>
 
 <div align="center">
@@ -79,4 +79,4 @@
   <h3>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1e40af,3b82f6,60a5fa&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a365d,2b77e6,4299e1&height=120&section=footer"/>
