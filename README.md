@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a365d,2b77e6,4299e1&height=150&section=header&text=Nathan%20Rocha%20Gomes&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0A1628,1A365D,2B77E6&height=150&section=header&text=Nathan%20Rocha%20Gomes&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2B77E6&center=true&vCenter=true&random=false&width=600&lines=Computer+Engineering+Student;Learning+Programming;Exploring+New+Technologies;Building+My+Skills" alt="Typing SVG" />
@@ -65,13 +65,13 @@
   <p>I'm always open to interesting conversations and collaboration opportunities!</p>
   
   <a href="https://www.linkedin.com/in/nathan-r-6b43512b7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-2B77E6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-2B77E6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A365D" alt="LinkedIn"/>
   </a>
   <a href="mailto:nathan07801@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-4299E1?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-4299E1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A365D" alt="Gmail"/>
   </a>
   <a href="https://www.instagram.com/nathan_rcgm" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-1A365D?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-2B77E6?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1A365D" alt="Instagram"/>
   </a>
 </div>
 
@@ -79,4 +79,4 @@
   <h3>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a365d,2b77e6,4299e1&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0A1628,1A365D,2B77E6&height=120&section=footer"/>
