@@ -1,46 +1,88 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1e40af,3b82f6,60a5fa&height=150&section=header&text=Nathan%20Rocha%20Gomes&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 <div align="center">
-  
-  <h1>Hey there, I'm Nathan 👋</h1>
-  <p>
-    I'm a passionate <strong>Computer Engineering student at SATC</strong>, focused on building clean, efficient, and scalable software.<br/>
-    Always learning, creating, and looking for new challenges in the tech world.
-  </p>
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1E40AF&center=true&vCenter=true&random=false&width=600&lines=Computer+Engineering+Student;Learning+Programming;Exploring+New+Technologies;Building+My+Skills" alt="Typing SVG" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=60&section=footer"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=60&section=header"/>
+<br/>
+
+<div align="center">
+  <h2>🚀 About Me</h2>
+  <p>
+    💻 <strong>Computer Engineering Student</strong> at SATC<br/>
+    📚 Learning and practicing programming fundamentals<br/>
+    🌱 Exploring <strong>web development</strong> and different technologies<br/>
+    🔍 Always curious about how things work<br/>
+    � Working on small projects to improve my skills
+  </p>
+</div>
+
+<div align="center">
+  <h2>📊 GitHub Analytics</h2>
+</div>
 
 <div align="center">  
-  <img width="57%" src="https://github-readme-stats.vercel.app/api?username=NathanRochaGomes&show_icons=true&theme=blueberry&count_private=true" alt="Nathan Rocha GitHub Stats" /> 
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanRochaGomes&theme=blueberry&layout=donut" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NathanRochaGomes&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" alt="Nathan's GitHub Stats" /> 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanRochaGomes&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
-<h3 align="center">Tecnologias que estudo</h3>
-<div style="display: inline_block" align="center" ><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,tailwind,git,vscode" />
+<div align="center">
+  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NathanRochaGomes&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://streak-stats.demolab.com?user=NathanRochaGomes&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=NathanRochaGomes&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Wakatime Stats" />
+</div>
+
+<div align="center">
+  <h2>🛠️ Technology Stack</h2>
+</div>
+
+<div align="center">
+  <h3>Programming Languages</h3>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,java,c" alt="Programming Languages"/>
+  
+  <h3>Frontend Development</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass" alt="Frontend Technologies"/>
+  
+  <h3>Backend Development</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" alt="Backend Technologies"/>
+  
+  <h3>Database & Cloud</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,aws" alt="Database & Cloud"/>
+  
+  <h3>Tools & Others</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,linux" alt="Tools"/>
+</div>
+
+<div align="center">
+  <h2>🏆 GitHub Trophies</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=NathanRochaGomes&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies"/>
+</div>
+
+<div align="center">
+  <h2>🐍 Contribution Graph</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NathanRochaGomes&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph"/>
+</div>
+
+<div align="center">
+  <h2>📫 Let's Connect!</h2>
+  <p>I'm always open to interesting conversations and collaboration opportunities!</p>
+  
+  <a href="https://www.linkedin.com/in/Nathan-Rocha-Gomes" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:nathan07801@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/nathan_rcgm" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
 
-<br>
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NathanRochaGomes&theme=blueberry"/>
-  <img width="40%" src="https://streak-stats.demolab.com?user=NathanRochaGomes&theme=blueberry&border_radius=6&locale=pt_BR&mode=daily" alt="GitHub Streak" />
+<div align="center">
+  <h3>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
 </div>
 
-<hr>
-
-<br>
-<br>
-
-<div align="center" style="padding: 0.7rem;">
-  <a href="https://www.instagram.com/nathan_rcgm" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /> </a>
-  <a href="mailto:nathan07801@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /> </a>
-  <a href="https://www.linkedin.com/in/Nathan-Rocha-Gomes" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /> </a>   
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1e40af,3b82f6,60a5fa&height=120&section=footer"/>
